@@ -51,7 +51,6 @@ Defining/developing new KPIs to help measure engagement, and develop actionable 
 - Quantifying text data. Developing a readability score (i.e. Flesch-Kincaid Reading Ease) for Think with Google content, using the textstat and readability python libraries <ahref="https://github.com/fergmack/prod_readability/blob/master/text_ratings.py&sa=D&source=docs&ust=1655729140375256&usg=AOvVaw3r2rwLhp82qw8341KawDbs" target="_blank:"><b>GitHub link</b></a> to Python code). 
 
 <a href="https://www.mintel.com/about-mintel" target="_blank:"><b>Mintel Group:</b></a> 
-
 Senior Analyst (March 2015 – July 2018)
 
 Mintel is a market research firm that delivers research, trends, and insights to help businesses understand their customers.
@@ -78,8 +77,8 @@ Developed a keen interest in quantitative analysis and spatial data using mappin
 
 
 **Personal Projects:**
-- [Find a movie script](https://replit.com/@fergmack/Find-a-movie-to-watch#main.pya%20Engineer%20with%20Python%20Track%20-%20Datacamp%202022) - type in a movie you like receive 10 recommendations of similar movies
-- [sqlgym.com](sqlgm.com) - a WIP website I’m building where people can go and learn about common SQL tasks.
+- <a href="https://replit.com/@fergmack/Find-a-movie-to-watch#main.pya%20Engineer%20with%20Python%20Track%20-%20Datacamp%202022" target="_blank:">Find a movie script</a> - type in a movie you like receive 10 recommendations of similar movies.
+- <a href="https://sqlgym.com" target="_blank:"><b>SQLgym</b></a> - a WIP website I’m building where people can go and learn about common SQL tasks.
 
 **Certificates and Further Study:**
 - [Data Engineer with Python Track - Datacamp 2022](https://www.google.com/url?q=https://www.datacamp.com/statement-of-accomplishment/track/f5dae186c0bb780b5c5e9e470e085cf279b21510&sa=D&source=docs&ust=1655729606653559&usg=AOvVaw0wGMoLeeU_E2iG6amN7g75) 
