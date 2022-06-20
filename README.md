@@ -81,8 +81,10 @@ Developed a keen interest in quantitative analysis and spatial data using mappin
 
 **Certificates and Further Study:** 
 - <a href="[https://www.kcl.ac.uk/about](https://www.google.com/url?q=https://www.datacamp.com/statement-of-accomplishment/track/f5dae186c0bb780b5c5e9e470e085cf279b21510&sa=D&source=docs&ust=1655729606653559&usg=AOvVaw0wGMoLeeU_E2iG6amN7g75)" target="_blank:"><b>Data Engineer with Python Track - Datacamp 2022</b></a> 
+- <a href="https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/Q3BGK3TCSYVA&sa=D&source=docs&ust=1655729669270031&usg=AOvVaw03QIMjnicF9EyQY0OEnQpv" target="_blank:"><b>Python 3 Programming Specialization - Coursera, University of Michigan, January 2020</b></a> 
+- <a href="https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/Q3BGK3TCSYVA&sa=D&source=docs&ust=1655729669270031&usg=AOvVaw03QIMjnicF9EyQY0OEnQpv" target="_blank:"><b>Python 3 Programming Specialization - Coursera, University of Michigan, January 2020</b></a> 
+- <a href="https://www.coursera.org/account/accomplishments/specialization/6CE85UUQKTV3?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate" target="_blank:"><b>Data Engineering, Big Data, and Machine Learning on GCP Specialization - Google, March 2020</b></a> 
+- <a href="https://www.coursera.org/account/accomplishments/verify/CFAAXA4PXM3W" target="_blank:"><b>Serverless Data Analysis with Google BigQuery and Cloud Dataflow - Google, January 2020</b></a> 
 
-- [Python 3 Programming Specialization - Coursera, University of Michigan, January 2020](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/Q3BGK3TCSYVA&sa=D&source=docs&ust=1655729669270031&usg=AOvVaw03QIMjnicF9EyQY0OEnQpv)
-- [Data Engineering, Big Data, and Machine Learning on GCP Specialization - Google, March 2020](https://www.coursera.org/account/accomplishments/specialization/6CE85UUQKTV3?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
-- [Serverless Data Analysis with Google BigQuery and Cloud Dataflow - Google, January 2020](https://www.coursera.org/account/accomplishments/verify/CFAAXA4PXM3W)
+
 
