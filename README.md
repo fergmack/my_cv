@@ -13,7 +13,7 @@ I am a Data Analyst with 8+ years experience, currently contracting at Facebook/
 <a href="https://about.facebook.com/" target="_blank:"><b>Meta:</b></a> 
 Data Analyst, Enterprise Learning Operations (contracted via Aquent) (November 2020 - present)
 
-Building data products to track KPIs and inform strategy for enterprise-level teams. Automation of workflows to reduce manual reporting and to speed up the working process. Working with cross-functional teams including People Operations, Learning & Development, Data Engineering, to service Meta’s learning products & strategies. My role includes the following:
+Building data products to track KPIs and inform strategy for enterprise-level teams. Automation of workflows to reduce manual reporting, and to eliminate repetitive tasks speeding up the working process. Working with cross-functional teams to service Meta’s learning products & strategies. My role includes the following:
 
 - Building pipelines/dashboards to visualize and turn complex data into insights. 
 - Automation of workflows - I built a dashboard that saved 1000s of hours of manual reporting over the year for one large team. 
@@ -42,7 +42,7 @@ Busuu is a language learning platform and app, similar to Duolingo.
 <a href="https://about.google/" target="_blank:"><b>Google:</b></a> 
 Data Analyst (contracted via Aquent) (July 2018 - June 2020)
 
-Defining/developing new KPIs to help measure engagement, and develop actionable insights on how to produce more engaging content for our users on <a href="https://www.thinkwithgoogle.com/" target="_blank:">Think with Google</a>.
+Defining/developing new KPIs to help measure engagement, and develop actionable insights to produce more engaging content for our users on <a href="https://www.thinkwithgoogle.com/" target="_blank:">Think with Google</a>.
 
 
 - Tracking growth of Think with Google through website engagements and newsletter subscriptions across 11 markets in EMEA.
@@ -50,7 +50,7 @@ Defining/developing new KPIs to help measure engagement, and develop actionable 
 - Marketing channel analysis: multivariate linear regression to predict effects of advertising channels on our Monthly Active Users (MAUs). 
 - Building an automated insights email using SQL/HTML/Python (Jinja) to email metrics to stakeholders each week with key insights.
 - Providing growth insights to Project Marketing Managers based on website engagement/behavior and email newsletter interactions
-- Quantifying text data. Developing a readability score (i.e. Flesch-Kincaid Reading Ease) for Think with Google content, using the textstat and readability python libraries <ahref="https://github.com/fergmack/prod_readability/blob/master/text_ratings.py" target="_blank:"><b>GitHub link</b></a> to Python code). 
+- Developing a readability score (i.e. Flesch-Kincaid Reading Ease) for Think with Google content, using the textstat and readability python libraries <ahref="https://github.com/fergmack/prod_readability/blob/master/text_ratings.py" target="_blank:"><b>GitHub link</b></a> to Python code). 
 
 <a href="https://www.mintel.com/about-mintel" target="_blank:"><b>Mintel Group:</b></a> 
 Senior Analyst (March 2015 – July 2018)
@@ -74,12 +74,12 @@ Verve is a company that specializes in building online surveys, panels, and comm
 BA (Hons) Geography (2:1)
 <br>
 
-Developed a keen interest in quantitative analysis and spatial data using mapping software such as 
+Developed a keen interest in quantitative analysis and spatial data using mapping and analysis tools such as 
 <a href="https://www.esri.com/en-us/arcgis/products/arcgis-online/capabilities/analyze-data" target="_blank:">ArcGIS</a> 
 
 **Certificates and Further Study:** 
 - <a href="https://www.datacamp.com/statement-of-accomplishment/track/f5dae186c0bb780b5c5e9e470e085cf279b21510" target="_blank:">Data Engineer with Python Track - Datacamp 2022</a> 
-- <a href="https://www.coursera.org/account/accomplishments/specialization/Q3BGK3TCSYVA" target="_blank:">Python 3 Programming Specialization - Coursera, University of Michigan, January 2020</a> 
+- <a href="https://www.coursera.org/account/accomplishments/specialization/Q3BGK3TCSYVA" target="_blank:">Python 3 Programming Specialization - Coursera - University of Michigan, January 2020</a> 
 - <a href="https://www.coursera.org/account/accomplishments/specialization/6CE85UUQKTV3?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate" target="_blank:">Data Engineering, Big Data, and Machine Learning on GCP Specialization - Google, March 2020</a> 
 - <a href="https://www.coursera.org/account/accomplishments/verify/CFAAXA4PXM3W" target="_blank:">Serverless Data Analysis with Google BigQuery and Cloud Dataflow - Google, January 2020</a> 
 
