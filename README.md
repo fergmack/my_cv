@@ -9,7 +9,8 @@ I am a data analyst with 8+ years experience, currently working as a contractor 
 - SQL, Python, Data Analysis, Data Visualisaiton, ETL jobs, VS Code, data modeling, Apache Airflow, Linux Bash scripting, Exploratory Data Analysis, Linear Regression, Google Cloud Platform, BigQuery, Tableau, AWS (Redshift, Aurora, Boto), Facebook Prophet for Forecasting. 
 
 ## Work Experience: 
-Data Analyst, Enterprise Learning Operations (contracted via Aquent) @ [**Meta:**](https://about.facebook.com/) (November 2020 - present)
+[**Meta:**](https://about.facebook.com/)
+Data Analyst, Enterprise Learning Operations (contracted via Aquent) (November 2020 - present)
 
 Building data products for teams to track KPIs and inform strategy for enterprise-level clients. Automation of workflows to reduce manual reporting and to speed up the working process. Working with cross-functional teams including People Operations, Learning & Development, Data Engineering, to service Meta learning products & strategies. Some of my projects include the following:
 
@@ -22,7 +23,7 @@ Building data products for teams to track KPIs and inform strategy for enterpris
 - Maintaining existing dashboards and refactoring SQL to remove technical debt and improve efficiency. 
 
 [**Busuu:**](https://www.busuu.com/)
-Senior Growth Analyst June 2020 - October 2020
+Senior Growth Analyst (June 2020 - October 2020)
 
 Busuu is a language learning platform and app, similar to Duolingo.
 - BI Reporting pod using Amazon Redshift, PostgreSQL, and Tableau. 
@@ -35,7 +36,7 @@ Busuu is a language learning platform and app, similar to Duolingo.
   - increased customer lifetime Value by 14% in one quarter
 
 [**Google:**](https://about.google/) 
-Data Analyst (contracted via Aquent) July 2018 - June 2020
+Data Analyst (contracted via Aquent) (July 2018 - June 2020)
 
 Defining/developing new KPIs to help measure engagement, and develop actionable insights on how to produce more engaging content for our users on [Think with Google](https://www.thinkwithgoogle.com/).
 
@@ -47,7 +48,7 @@ Defining/developing new KPIs to help measure engagement, and develop actionable 
 - Quantifying text data. Developing a readability score (i.e. Flesch-Kincaid Reading Ease) for Think with Google content, using the textstat and readability python libraries ([GitHub link](https://www.google.com/url?q=https://github.com/fergmack/prod_readability/blob/master/text_ratings.py&sa=D&source=docs&ust=1655729140375256&usg=AOvVaw3r2rwLhp82qw8341KawDbs) to Python code). 
 
 [**Mintel Group:**](https://www.mintel.com/about-mintel)
-Senior Analyst March 2015 – July 2018
+Senior Analyst (March 2015 – July 2018)
 
 Mintel is a market research firm that delivers research, trends, and insights to help businesses understand their customers.
 
@@ -58,6 +59,7 @@ Mintel is a market research firm that delivers research, trends, and insights to
 
 
 [**Verve Partners**](https://www.addverve.com/)
+Senior QA Executive (October 2013 – March 2015)
 Verve is a company that specializes in building online surveys, panels, and communities for business research purposes.
 
 - Analyzing online survey data, and community website data for clients across a broad range of industries including finance, retail, media, travel, and technology.
