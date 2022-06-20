@@ -65,13 +65,14 @@ Verve is a company that specializes in building online surveys, panels, and comm
 - Analyzing online survey data, and community website data for clients across a broad range of industries including finance, retail, media, travel, and technology.
 
 ## Education:
-[**King’s College London:**](https://www.kcl.ac.uk/about)                          				September 2010 – June 2013
+[**King’s College London:**](https://www.kcl.ac.uk/about) September 2010 – June 2013
 BA (Hons) Geography (2:1)
+
 Developed a keen interest in quantitative analysis and spatial data using mapping software such as [ArcGIS](https://www.esri.com/en-us/arcgis/products/arcgis-online/capabilities/analyze-data).
 
 **Personal Projects:**
-[Find a movie script](https://replit.com/@fergmack/Find-a-movie-to-watch#main.pya%20Engineer%20with%20Python%20Track%20-%20Datacamp%202022) - type in a movie you like receive 10 recommendations of similar movies
-[sqlgym.com](sqlgm.com) - a WIP website I’m building where people can go and learn about common SQL tasks.
+- [Find a movie script](https://replit.com/@fergmack/Find-a-movie-to-watch#main.pya%20Engineer%20with%20Python%20Track%20-%20Datacamp%202022) - type in a movie you like receive 10 recommendations of similar movies
+- [sqlgym.com](sqlgm.com) - a WIP website I’m building where people can go and learn about common SQL tasks.
 
 **Certificates and Further Study:**
 -[Data Engineer with Python Track](https://www.google.com/url?q=https://www.datacamp.com/statement-of-accomplishment/track/f5dae186c0bb780b5c5e9e470e085cf279b21510&sa=D&source=docs&ust=1655729606653559&usg=AOvVaw0wGMoLeeU_E2iG6amN7g75) - Datacamp 2022
