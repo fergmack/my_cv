@@ -39,7 +39,7 @@ Busuu is a language learning platform and app, similar to Duolingo.
 <a href="https://about.google/" target="_blank:"><b>Google:</b></a> 
 Data Analyst (contracted via Aquent) (July 2018 - June 2020)
 
-Defining/developing new KPIs to help measure engagement, and develop actionable insights on how to produce more engaging content for our users on <a href="https://www.thinkwithgoogle.com/" target="_blank:"><b>Think with Googlep:</b></a>.
+Defining/developing new KPIs to help measure engagement, and develop actionable insights on how to produce more engaging content for our users on <a href="https://www.thinkwithgoogle.com/" target="_blank:">Think with Google</a>.
 
 
 - Tracking growth of Think with Google through website engagements and newsletter subscriptions across 11 markets in EMEA.
@@ -47,7 +47,7 @@ Defining/developing new KPIs to help measure engagement, and develop actionable 
 - Marketing channel analysis: multivariate linear regression to predict effects of advertising channels on our Monthly Active Users (MAUs). 
 - Building an automated insights email using SQL/HTML/Python (Jinja) to email data to stakeholders each week with key insights.
 - Providing growth insights to Project Marketing Managers based on website engagement/behavior and email newsletter interactions
-- Quantifying text data. Developing a readability score (i.e. Flesch-Kincaid Reading Ease) for Think with Google content, using the textstat and readability python libraries <ahref="https://github.com/fergmack/prod_readability/blob/master/text_ratings.py&sa=D&source=docs&ust=1655729140375256&usg=AOvVaw3r2rwLhp82qw8341KawDbs" target="_blank:"><b>GitHub link</b></a> to Python code). 
+- Quantifying text data. Developing a readability score (i.e. Flesch-Kincaid Reading Ease) for Think with Google content, using the textstat and readability python libraries <ahref="https://github.com/fergmack/prod_readability/blob/master/text_ratings.py" target="_blank:"><b>GitHub link</b></a> to Python code). 
 
 <a href="https://www.mintel.com/about-mintel" target="_blank:"><b>Mintel Group:</b></a> 
 Senior Analyst (March 2015 – July 2018)
@@ -79,8 +79,9 @@ Developed a keen interest in quantitative analysis and spatial data using mappin
 - <a href="https://replit.com/@fergmack/Find-a-movie-to-watch#main.pya%20Engineer%20with%20Python%20Track%20-%20Datacamp%202022" target="_blank:">Find a movie script</a> - type in a movie you like receive 10 recommendations of similar movies.
 - <a href="https://sqlgym.com" target="_blank:"><b>SQLgym</b></a> - a WIP website I’m building where people can go and learn about common SQL tasks.
 
-**Certificates and Further Study:**
-- [Data Engineer with Python Track - Datacamp 2022](https://www.google.com/url?q=https://www.datacamp.com/statement-of-accomplishment/track/f5dae186c0bb780b5c5e9e470e085cf279b21510&sa=D&source=docs&ust=1655729606653559&usg=AOvVaw0wGMoLeeU_E2iG6amN7g75) 
+**Certificates and Further Study:** 
+- <a href="[https://www.kcl.ac.uk/about](https://www.google.com/url?q=https://www.datacamp.com/statement-of-accomplishment/track/f5dae186c0bb780b5c5e9e470e085cf279b21510&sa=D&source=docs&ust=1655729606653559&usg=AOvVaw0wGMoLeeU_E2iG6amN7g75)" target="_blank:"><b>Data Engineer with Python Track - Datacamp 2022</b></a> 
+
 - [Python 3 Programming Specialization - Coursera, University of Michigan, January 2020](https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/Q3BGK3TCSYVA&sa=D&source=docs&ust=1655729669270031&usg=AOvVaw03QIMjnicF9EyQY0OEnQpv)
 - [Data Engineering, Big Data, and Machine Learning on GCP Specialization - Google, March 2020](https://www.coursera.org/account/accomplishments/specialization/6CE85UUQKTV3?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
 - [Serverless Data Analysis with Google BigQuery and Cloud Dataflow - Google, January 2020](https://www.coursera.org/account/accomplishments/verify/CFAAXA4PXM3W)
