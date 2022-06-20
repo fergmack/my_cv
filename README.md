@@ -40,14 +40,15 @@ Busuu is a language learning platform and app, similar to Duolingo.
 
 Data Analyst (contracted via Aquent) (July 2018 - June 2020)
 
-Defining/developing new KPIs to help measure engagement, and develop actionable insights on how to produce more engaging content for our users on [Think with Google](https://www.thinkwithgoogle.com/).
+Defining/developing new KPIs to help measure engagement, and develop actionable insights on how to produce more engaging content for our users on <a href="https://www.thinkwithgoogle.com/" target="_blank:"><b>Think with Googlep:</b></a>.
+
 
 - Tracking growth of Think with Google through website engagements and newsletter subscriptions across 11 markets in EMEA.
 - Building workflows to extract, transform, and load social media advertising data. 
 - Marketing channel analysis: multivariate linear regression to predict effects of advertising channels on our Monthly Active Users (MAUs). 
 - Building an automated insights email using SQL/HTML/Python (Jinja) to email data to stakeholders each week with key insights.
 - Providing growth insights to Project Marketing Managers based on website engagement/behavior and email newsletter interactions
-- Quantifying text data. Developing a readability score (i.e. Flesch-Kincaid Reading Ease) for Think with Google content, using the textstat and readability python libraries ([GitHub link](https://www.google.com/url?q=https://github.com/fergmack/prod_readability/blob/master/text_ratings.py&sa=D&source=docs&ust=1655729140375256&usg=AOvVaw3r2rwLhp82qw8341KawDbs) to Python code). 
+- Quantifying text data. Developing a readability score (i.e. Flesch-Kincaid Reading Ease) for Think with Google content, using the textstat and readability python libraries <ahref="https://github.com/fergmack/prod_readability/blob/master/text_ratings.py&sa=D&source=docs&ust=1655729140375256&usg=AOvVaw3r2rwLhp82qw8341KawDbs" target="_blank:"><b>GitHub link</b></a> to Python code). 
 
 <a href="https://www.mintel.com/about-mintel" target="_blank:"><b>Mintel Group:</b></a> 
 
