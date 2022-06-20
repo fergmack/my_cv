@@ -37,7 +37,6 @@ Busuu is a language learning platform and app, similar to Duolingo.
   - increased customer lifetime Value by 14% in one quarter
 
 <a href="https://about.google/" target="_blank:"><b>Google:</b></a> 
-
 Data Analyst (contracted via Aquent) (July 2018 - June 2020)
 
 Defining/developing new KPIs to help measure engagement, and develop actionable insights on how to produce more engaging content for our users on <a href="https://www.thinkwithgoogle.com/" target="_blank:"><b>Think with Googlep:</b></a>.
