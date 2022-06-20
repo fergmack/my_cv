@@ -66,9 +66,7 @@ Verve is a company that specializes in building online surveys, panels, and comm
 - Analyzing online survey data, and community website data for clients across a broad range of industries including finance, retail, media, travel, and technology.
 
 ## Education:
-<a href="https://www.kcl.ac.uk/about" target="_blank:"><b>King's College London</b></a> 
-
-(September 2010 – June 2013) <br>
+<a href="https://www.kcl.ac.uk/about" target="_blank:"><b>King's College London</b></a> (September 2010 – June 2013) <br>
 BA (Hons) Geography (2:1)
 <br>
 Developed a keen interest in quantitative analysis and spatial data using mapping software such as 
@@ -77,14 +75,14 @@ Developed a keen interest in quantitative analysis and spatial data using mappin
 
 **Personal Projects:**
 - <a href="https://replit.com/@fergmack/Find-a-movie-to-watch#main.pya%20Engineer%20with%20Python%20Track%20-%20Datacamp%202022" target="_blank:">Find a movie script</a> - type in a movie you like receive 10 recommendations of similar movies.
-- <a href="https://sqlgym.com" target="_blank:"><b>SQLgym</b></a> - a WIP website I’m building where people can go and learn about common SQL tasks.
+- <a href="https://sqlgym.com" target="_blank:">SQLgym</a> - a WIP website I’m building where people can go and learn about common SQL tasks.
 
 **Certificates and Further Study:** 
-- <a href="[https://www.kcl.ac.uk/about](https://www.google.com/url?q=https://www.datacamp.com/statement-of-accomplishment/track/f5dae186c0bb780b5c5e9e470e085cf279b21510&sa=D&source=docs&ust=1655729606653559&usg=AOvVaw0wGMoLeeU_E2iG6amN7g75)" target="_blank:"><b>Data Engineer with Python Track - Datacamp 2022</b></a> 
-- <a href="https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/Q3BGK3TCSYVA&sa=D&source=docs&ust=1655729669270031&usg=AOvVaw03QIMjnicF9EyQY0OEnQpv" target="_blank:"><b>Python 3 Programming Specialization - Coursera, University of Michigan, January 2020</b></a> 
-- <a href="https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/Q3BGK3TCSYVA&sa=D&source=docs&ust=1655729669270031&usg=AOvVaw03QIMjnicF9EyQY0OEnQpv" target="_blank:"><b>Python 3 Programming Specialization - Coursera, University of Michigan, January 2020</b></a> 
-- <a href="https://www.coursera.org/account/accomplishments/specialization/6CE85UUQKTV3?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate" target="_blank:"><b>Data Engineering, Big Data, and Machine Learning on GCP Specialization - Google, March 2020</b></a> 
-- <a href="https://www.coursera.org/account/accomplishments/verify/CFAAXA4PXM3W" target="_blank:"><b>Serverless Data Analysis with Google BigQuery and Cloud Dataflow - Google, January 2020</b></a> 
+- <a href="[https://www.kcl.ac.uk/about](https://www.google.com/url?q=https://www.datacamp.com/statement-of-accomplishment/track/f5dae186c0bb780b5c5e9e470e085cf279b21510&sa=D&source=docs&ust=1655729606653559&usg=AOvVaw0wGMoLeeU_E2iG6amN7g75)" target="_blank:">Data Engineer with Python Track - Datacamp 2022</a> 
+- <a href="https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/Q3BGK3TCSYVA&sa=D&source=docs&ust=1655729669270031&usg=AOvVaw03QIMjnicF9EyQY0OEnQpv" target="_blank:">Python 3 Programming Specialization - Coursera, University of Michigan, January 2020</a> 
+- <a href="https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/Q3BGK3TCSYVA&sa=D&source=docs&ust=1655729669270031&usg=AOvVaw03QIMjnicF9EyQY0OEnQpv" target="_blank:">Python 3 Programming Specialization - Coursera, University of Michigan, January 2020</a> 
+- <a href="https://www.coursera.org/account/accomplishments/specialization/6CE85UUQKTV3?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate" target="_blank:">Data Engineering, Big Data, and Machine Learning on GCP Specialization - Google, March 2020</a> 
+- <a href="https://www.coursera.org/account/accomplishments/verify/CFAAXA4PXM3W" target="_blank:">Serverless Data Analysis with Google BigQuery and Cloud Dataflow - Google, January 2020</a> 
 
 
 
