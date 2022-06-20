@@ -12,8 +12,8 @@ I am a data analyst with 8+ years experience, currently working as a contractor 
 - SQL, Python, Data Analysis, Data Visualisaiton, ETL jobs, VS Code, data modeling, Apache Airflow, Linux Bash scripting, Exploratory Data Analysis, Linear Regression, Google Cloud Platform, BigQuery, Tableau, AWS (Redshift, Aurora, Boto), Facebook Prophet for Forecasting. 
 
 ## Work Experience: 
-**[Meta:](https://about.facebook.com/)**
-<a href="https://about.facebook.com/" target="Meta:">y</a> 
+**[Meta:](https://about.facebook.com/)** <br>
+<a href="https://about.facebook.com/" target="_blank:"><b>Meta:</b></a> 
 Data Analyst, Enterprise Learning Operations (contracted via Aquent) (November 2020 - present)
 
 Building data products for teams to track KPIs and inform strategy for enterprise-level clients. Automation of workflows to reduce manual reporting and to speed up the working process. Working with cross-functional teams including People Operations, Learning & Development, Data Engineering, to service Meta learning products & strategies. Some of my projects include the following:
