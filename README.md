@@ -3,38 +3,41 @@
 +447754 218 089
 
 
-I am a data analyst with 8+ years experience, currently working as a contractor with Facebook/Meta in Enterprise Learning Operations since November 2020. In addition to data engineering experience, I have previously contracted as a Data Analyst at Google for two years. 
+I am a Data Analyst with 8+ years experience, currently contracting at Facebook/Meta in Enterprise Learning Operations since November 2020. In addition to data engineering experience, I have previously contracted as a Data Analyst at Google for two years. 
 
 ## Technical Skills:
 
-- SQL, Python, Data Analysis, Data Visualisaiton, ETL jobs, VS Code, data modeling, Apache Airflow, Linux Bash scripting, Exploratory Data Analysis, Linear Regression, Google Cloud Platform, BigQuery, Tableau, AWS (Redshift, Aurora, Boto), Facebook Prophet for Forecasting. 
+- SQL, python, data analysis, data visualization, ETL jobs, VS Code, data modeling, Apache Airflow, Linux Bash scripting, exploratory data analysis, linear regression, Google Cloud Platform, BigQuery, Tableau, AWS (Redshift, Aurora, Boto), Facebook Prophet for Forecasting. 
 
 ## Work Experience: 
 <a href="https://about.facebook.com/" target="_blank:"><b>Meta:</b></a> 
 Data Analyst, Enterprise Learning Operations (contracted via Aquent) (November 2020 - present)
 
-Building data products for teams to track KPIs and inform strategy for enterprise-level clients. Automation of workflows to reduce manual reporting and to speed up the working process. Working with cross-functional teams including People Operations, Learning & Development, Data Engineering, to service Meta learning products & strategies. Some of my projects include the following:
+Building data products to track KPIs and inform strategy for enterprise-level teams. Automation of workflows to reduce manual reporting and to speed up the working process. Working with cross-functional teams including People Operations, Learning & Development, Data Engineering, to service Meta’s learning products & strategies. My role includes the following:
 
 - Building pipelines/dashboards to visualize and turn complex data into insights. 
 - Automation of workflows - I built a dashboard that saved 1000s of hours of manual reporting over the year for one large team. 
-- I also built a pipeline that automated and abstracted away manual updates, saving multiple hours of manual work.
-- Linear regression to predict task intake as the rate of new hires increased since 2020. 
-- Exploratory data analysis with Python and Bento.
+- I built a pipeline that automated and abstracted away manual dashboard updates, saving multiple hours of manual work.
+- Linear regression to predict task intake as the rate of new hires increased. 
 - Survey design/analysis to gather business reporting requirements and dashboard feedback. 
-- Maintaining existing dashboards and refactoring SQL to remove technical debt and improve efficiency. 
+- Exploratory data analysis with Python and Bento. 
+- Maintaining existing dashboards and refactoring SQL code to remove technical debt and improve efficiency. 
+- Experience in HR analytics and working with HR/organizational people data. 
+
 
 <a href="https://www.busuu.com/" target="_blank:"><b>Busuu:</b></a> 
 Senior Growth Analyst (June 2020 - October 2020)
 
 Busuu is a language learning platform and app, similar to Duolingo.
-- BI Reporting pod using Amazon Redshift, PostgreSQL, and Tableau. 
+- BI reporting using Amazon Redshift, PostgreSQL, and Tableau.
 - Defined KPIs and set targets. 
 - Used data to identify growth opportunities and product issues. 
 - AB testing and product analytics: 
-  - increased free trial uptake by 32%
-  - free trial conversion by 33%
-  - average order value by 13% 
-  - increased customer lifetime Value by 14% in one quarter
+  - increased free trial uptake by 32%,
+  - free trial conversion by 33%,
+  - average order value by 13%, 
+  - and increased customer lifetime Value by 14% in one quarter
+ 
 
 <a href="https://about.google/" target="_blank:"><b>Google:</b></a> 
 Data Analyst (contracted via Aquent) (July 2018 - June 2020)
@@ -45,7 +48,7 @@ Defining/developing new KPIs to help measure engagement, and develop actionable 
 - Tracking growth of Think with Google through website engagements and newsletter subscriptions across 11 markets in EMEA.
 - Building workflows to extract, transform, and load social media advertising data. 
 - Marketing channel analysis: multivariate linear regression to predict effects of advertising channels on our Monthly Active Users (MAUs). 
-- Building an automated insights email using SQL/HTML/Python (Jinja) to email data to stakeholders each week with key insights.
+- Building an automated insights email using SQL/HTML/Python (Jinja) to email metrics to stakeholders each week with key insights.
 - Providing growth insights to Project Marketing Managers based on website engagement/behavior and email newsletter interactions
 - Quantifying text data. Developing a readability score (i.e. Flesch-Kincaid Reading Ease) for Think with Google content, using the textstat and readability python libraries <ahref="https://github.com/fergmack/prod_readability/blob/master/text_ratings.py" target="_blank:"><b>GitHub link</b></a> to Python code). 
 
@@ -64,6 +67,7 @@ Senior QA Executive (October 2013 – March 2015) <br>
 Verve is a company that specializes in building online surveys, panels, and communities for business research purposes.
 
 - Analyzing online survey data, and community website data for clients across a broad range of industries including finance, retail, media, travel, and technology.
+- QA of survey scripting and data. 
 
 ## Education:
 <a href="https://www.kcl.ac.uk/about" target="_blank:"><b>King's College London</b></a> (September 2010 – June 2013) <br>
