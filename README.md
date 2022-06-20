@@ -1,5 +1,5 @@
 # Fergal McGivney
-<fjmcgivney@gmail.com>
+<fjmcgivney@gmail.com> <br>
 +447754 218 089
 
 I am a data analyst with 8+ years experience, currently working as a contractor with Facebook/Meta in Enterprise Learning Operations since November 2020. In addition to data engineering experience, I have previously contracted as a Data Analyst at Google for two years. 
