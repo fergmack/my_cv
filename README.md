@@ -4,6 +4,7 @@
 
 
 [google](google.com){:target="_blank"}
+[xxx](google.com){:target="_blank"}
 
 I am a data analyst with 8+ years experience, currently working as a contractor with Facebook/Meta in Enterprise Learning Operations since November 2020. In addition to data engineering experience, I have previously contracted as a Data Analyst at Google for two years. 
 
