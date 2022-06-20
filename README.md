@@ -1,5 +1,5 @@
 # Fergal McGivney
-<mailto:fjmcgivney@gmail.com> <br>
+<fjmcgivney@gmail.com> <br>
 +447754 218 089
 
 
