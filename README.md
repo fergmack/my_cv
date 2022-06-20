@@ -57,8 +57,8 @@ Mintel is a market research firm that delivers research, trends, and insights to
 - Delivered over 60 long-form analysis reports in my time there
 - Consumer research and market sizing/forecasting
 
-**[Verve Partners](https://www.addverve.com/)**
-Senior QA Executive (October 2013 – March 2015)
+**[Verve Partners](https://www.addverve.com/)** <br>
+Senior QA Executive (October 2013 – March 2015) <br>
 Verve is a company that specializes in building online surveys, panels, and communities for business research purposes.
 
 - Analyzing online survey data, and community website data for clients across a broad range of industries including finance, retail, media, travel, and technology.
