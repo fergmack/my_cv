@@ -64,7 +64,7 @@ Verve is a company that specializes in building online surveys, panels, and comm
 - Analyzing online survey data, and community website data for clients across a broad range of industries including finance, retail, media, travel, and technology.
 
 ## Education:
-**[King’s College London:](https://www.kcl.ac.uk/about)** September 2010 – June 2013 <br>
+**[King’s College London:](https://www.kcl.ac.uk/about)** (September 2010 – June 2013) <br>
 BA (Hons) Geography (2:1)
 <br>
 Developed a keen interest in quantitative analysis and spatial data using mapping software such as [ArcGIS](https://www.esri.com/en-us/arcgis/products/arcgis-online/capabilities/analyze-data).
