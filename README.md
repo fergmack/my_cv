@@ -3,8 +3,7 @@
 +447754 218 089
 
 
-[google](google.com){:target="_blank"} <br>
-[xxx](google.com){:target="_blank"}
+html
 <a href="http://example.com/" target="_blank">Hello, world!</a>
 
 
