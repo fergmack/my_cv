@@ -36,7 +36,6 @@ Busuu is a language learning platform and app, similar to Duolingo.
   - average order value by 13% 
   - increased customer lifetime Value by 14% in one quarter
 
-**[Google:]()** 
 <a href="https://about.google/" target="_blank:"><b>Google:</b></a> 
 
 Data Analyst (contracted via Aquent) (July 2018 - June 2020)
