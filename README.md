@@ -79,9 +79,8 @@ Developed a keen interest in quantitative analysis and spatial data using mappin
 - <a href="https://sqlgym.com" target="_blank:">SQLgym</a> - a WIP website I’m building where people can go and learn about common SQL tasks.
 
 **Certificates and Further Study:** 
-- <a href="[https://www.kcl.ac.uk/about](https://www.google.com/url?q=https://www.datacamp.com/statement-of-accomplishment/track/f5dae186c0bb780b5c5e9e470e085cf279b21510&sa=D&source=docs&ust=1655729606653559&usg=AOvVaw0wGMoLeeU_E2iG6amN7g75)" target="_blank:">Data Engineer with Python Track - Datacamp 2022</a> 
-- <a href="https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/Q3BGK3TCSYVA&sa=D&source=docs&ust=1655729669270031&usg=AOvVaw03QIMjnicF9EyQY0OEnQpv" target="_blank:">Python 3 Programming Specialization - Coursera, University of Michigan, January 2020</a> 
-- <a href="https://www.google.com/url?q=https://www.coursera.org/account/accomplishments/specialization/Q3BGK3TCSYVA&sa=D&source=docs&ust=1655729669270031&usg=AOvVaw03QIMjnicF9EyQY0OEnQpv" target="_blank:">Python 3 Programming Specialization - Coursera, University of Michigan, January 2020</a> 
+- <a href="https://www.datacamp.com/statement-of-accomplishment/track/f5dae186c0bb780b5c5e9e470e085cf279b21510" target="_blank:">Data Engineer with Python Track - Datacamp 2022</a> 
+- <a href="https://www.coursera.org/account/accomplishments/specialization/Q3BGK3TCSYVA" target="_blank:">Python 3 Programming Specialization - Coursera, University of Michigan, January 2020</a> 
 - <a href="https://www.coursera.org/account/accomplishments/specialization/6CE85UUQKTV3?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate" target="_blank:">Data Engineering, Big Data, and Machine Learning on GCP Specialization - Google, March 2020</a> 
 - <a href="https://www.coursera.org/account/accomplishments/verify/CFAAXA4PXM3W" target="_blank:">Serverless Data Analysis with Google BigQuery and Cloud Dataflow - Google, January 2020</a> 
 
