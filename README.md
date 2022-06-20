@@ -3,7 +3,7 @@
 +447754 218 089
 
 
-I am a Data Analyst with 8+ years experience, currently contracting at Facebook/Meta in Enterprise Learning Operations since November 2020. In addition to having data engineering experience, I have previously contracted as a Data Analyst at Google for two years. 
+I am a Data Analyst with 8+ years experience, currently contracting at Facebook/Meta in Enterprise Learning Operations. I have previously contracted as a Data Analyst at Google for two years, in addition to having data engineering experience.
 
 ## Technical Skills:
 
