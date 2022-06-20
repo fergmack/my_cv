@@ -3,10 +3,7 @@
 +447754 218 089
 
 
-html
-<a href="http://example.com/" target="_blank">Hello, world!</a> <br>
-<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
-
+<a href="x" target="_blank">y</a> 
 
 I am a data analyst with 8+ years experience, currently working as a contractor with Facebook/Meta in Enterprise Learning Operations since November 2020. In addition to data engineering experience, I have previously contracted as a Data Analyst at Google for two years. 
 
@@ -16,6 +13,7 @@ I am a data analyst with 8+ years experience, currently working as a contractor 
 
 ## Work Experience: 
 **[Meta:](https://about.facebook.com/)**
+<a href="https://about.facebook.com/" target="Meta:">y</a> 
 Data Analyst, Enterprise Learning Operations (contracted via Aquent) (November 2020 - present)
 
 Building data products for teams to track KPIs and inform strategy for enterprise-level clients. Automation of workflows to reduce manual reporting and to speed up the working process. Working with cross-functional teams including People Operations, Learning & Development, Data Engineering, to service Meta learning products & strategies. Some of my projects include the following:
