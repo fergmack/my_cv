@@ -84,6 +84,6 @@ Developed a keen interest in quantitative analysis and spatial data using mappin
 - <a href="https://www.coursera.org/account/accomplishments/verify/CFAAXA4PXM3W" target="_blank:">Serverless Data Analysis with Google BigQuery and Cloud Dataflow - Google, January 2020</a> 
 
 **Personal Projects:**
-- <a href="https://replit.com/@fergmack/Find-a-movie-to-watch#main.pya%20Engineer%20with%20Python%20Track%20-%20Datacamp%202022" target="_blank:">Find a movie script</a> - type in a movie you like receive 10 recommendations of similar movies.
+- <a href="https://replit.com/@fergmack/Find-a-movie-to-watch#main.pya%20Engineer%20with%20Python%20Track%20-%20Datacamp%202022" target="_blank:">Find a movie script</a> - type in a movie you like and receive 10 recommendations of similar movies.
 - <a href="https://sqlgym.com" target="_blank:">SQLgym</a> - a WIP website I’m building where people can go and learn about common SQL tasks and questions.
 
