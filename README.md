@@ -50,7 +50,7 @@ Defining/developing new KPIs to help measure engagement, and develop actionable 
 - Marketing channel analysis: multivariate linear regression to predict effects of advertising channels on our Monthly Active Users (MAUs). 
 - Building an automated insights email using SQL/HTML/Python (Jinja) to email metrics to stakeholders each week with key insights.
 - Providing growth insights to Project Marketing Managers based on website engagement/behavior and email newsletter interactions
-- Developing a readability score for Think with Google content, using the textstat and readability python libraries (<a href="https://github.com/fergmack/prod_readability/blob/master/text_ratings.py" target="_blank:"><b>GitHub link</b></a> to python code).
+- Developing a readability score for Think with Google content, using the textstat and readability python libraries (<a href="https://github.com/fergmack/prod_readability/blob/master/text_ratings.py" target="_blank:">GitHub link</a> to python code).
 
 <a href="https://www.mintel.com/about-mintel" target="_blank:"><b>Mintel Group:</b></a> 
 Senior Analyst (March 2015 – July 2018)
