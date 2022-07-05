@@ -88,6 +88,5 @@ Developed a keen interest in quantitative analysis and spatial data using mappin
 - <a href="http://18.118.5.88:8501/" target="_blank:">Streamlit Dashboard</a> - a streamlit dashboard for US airline sentiment analysis, launched on an AWS EC2 instance.
 - <a href="https://replit.com/@fergmack/Find-a-movie-to-watch#main.pya%20Engineer%20with%20Python%20Track%20-%20Datacamp%202022" target="_blank:">Find a movie script</a> - type in a movie you like and receive 10 recommendations of similar movies.
 - <a href="https://sqlgym.com" target="_blank:">SQLgym</a> - a website I’m building where people can go and learn about common SQL tasks and questions.
-- <a href="https://github.com/fergmack/notebooks/blob/main/Linear_Regression_Life_Expectancy.ipynb" target="_blank:">
-Life Expectancy Prediction Model</a> - a linear regression model for predicting life expectancy around the world.
+- <a href="https://github.com/fergmack/notebooks/blob/main/Linear_Regression_Life_Expectancy.ipynb" target="_blank:"> Life Expectancy Prediction Model</a> - a linear regression model for predicting life expectancy around the world.
 
