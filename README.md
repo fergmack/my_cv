@@ -83,7 +83,7 @@ Developed a keen interest in quantitative analysis and spatial data using mappin
 - <a href="https://www.coursera.org/account/accomplishments/specialization/6CE85UUQKTV3?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate" target="_blank:">Data Engineering, Big Data, and Machine Learning on GCP Specialization - Google, March 2020</a> 
 - <a href="https://www.coursera.org/account/accomplishments/verify/CFAAXA4PXM3W" target="_blank:">Serverless Data Analysis with Google BigQuery and Cloud Dataflow - Google, January 2020</a> 
 
-http://18.118.5.88:8501/
+
 **Personal Projects:**
 - <a href="http://18.118.5.88:8501/" target="_blank:">Streamlit Dashboard</a> - a streamlit dashboard for US airline sentiment analysis, launched on an AWS EC2 instance.
 - <a href="https://replit.com/@fergmack/Find-a-movie-to-watch#main.pya%20Engineer%20with%20Python%20Track%20-%20Datacamp%202022" target="_blank:">Find a movie script</a> - type in a movie you like and receive 10 recommendations of similar movies.
