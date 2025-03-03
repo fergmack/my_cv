@@ -5,7 +5,8 @@
 Data Analyst with 10+ years of experience, currently working for Booking.com as a Senior Data Analyst in our growing FinTech Department in London. Experienced in A/B testing, data analysis for product growth, and data engineering with complex click-stream and financial data, delivering actionable insights to stakeholders in cross-functional teams. Skilled in SQL, python, data analysis, data visualisation, AB testing/experimentation, ETL jobs, data modelling, exploratory data analysis, linear regression, churn analysis, Git, Airflow, Linux Bash scripting, BigQuery, Tableau, AWS, GCP, VS Code, Facebook Prophet (forecasting). 
 
 ## Work Experience: 
-Booking.com, Senior Data Analyst  					October 20222 - present
+<a href="https://booking.com/" target="_blank:"><b>Booking.com:</b></a> 
+Senior Data Analyst, FinTech  					October 20222 - present
 Analytics and growth for FX payment products in Booking.com’s growing FinTech business unit, specialising in cross-currency payments, wallet payments, and our Pay in Your Own Currency product.
 - Helped grow net revenue by over 3.5x to €XXM on our Pay In Your Own Currency (PIYOC) product in 2024.
 - Designed, developed, and analysed A/B tests to grow PIYOC and Wallet products, running multiple experiments to increase adoption rates and incremental revenue.
